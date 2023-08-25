@@ -1,10 +1,10 @@
-##App Dispositivos Moviles
+## App Dispositivos Moviles
 
-####Nombre: Christian Moya
+#### Nombre: Christian Moya
 
 **Trabajo individual de dispositivos moviles el cual consiste de multiples actividades algunas de estas son:**
 
-##Caracteristicas
+## Caracteristicas
 - Ventana de Login y Registro a traves de Firebase
 - Autentificacion a traves de la huella digital
 - Menu de actividades donde el usuario podra navegar a las diferentes activiades de la App
@@ -36,54 +36,66 @@
 - **Volley:** Una biblioteca para tareas de red como obtener datos de la web.
 - **OkHttp:** Un cliente HTTP poderoso para hacer solicitudes de red.
 ## Resultados
-####Ventana de login
+#### Ventana de login
+
 ![](https://i.postimg.cc/Kj7kDdHz/image001.png)
 >Pantalla que permite a los usuarios registrarse y acceder a la aplicación utilizando Firebase como plataforma de autenticación.
 
-###Registro
+### Registro
+
 ![](https://i.postimg.cc/Ghrsmm4s/image003.png)
 >Mensaje que muestra que el registro fu un exito o un fracaso
 
-###Carga de pantalla
+### Carga de pantalla
+
 ![](https://i.postimg.cc/8kL6G6zS/image005.png)
 >Una vez el usuario ingrese su cuenta con exito saldra una pantalla de carga
 
-###Ingreso con huella digital
+### Ingreso con huella digital
+
 ![](https://i.postimg.cc/9FpwRH9g/image007.png)
 >Capacidad para que los usuarios se autentiquen utilizando su huella digital, proporcionando una forma segura y conveniente de acceso.
 
-###Pantalla de menu
+### Pantalla de menu
+
 ![](https://i.postimg.cc/5y8vkH6f/image009.png)
 >Una pantalla de menú desde la cual los usuarios pueden navegar a diferentes secciones o actividades dentro de la aplicación, la cual monstrare a continuacion
 
-###Pantalla Camara
+### Pantalla Camara
+
 ![](https://i.postimg.cc/BvtFf7XY/image011.png)
 >pantalla que lleva al boton para poder acceder a la camara
 
-###Camara
+### Camara
+
 ![](https://i.postimg.cc/k5ZbJNSn/image013.png)
 >Integración de la cámara que permite a los usuarios tomar fotos y compartirlas a través de la aplicación.
 
-###Notificacion
+### Notificacion
+
 ![](https://i.postimg.cc/XN5wvPxt/image015.png)
 >Una característica que permite a los usuarios configurar alarmas y recibir notificaciones en la hora especificada.
 
-###Mini-Juego Adivinanza
+### Mini-Juego Adivinanza
+
 ![](https://i.postimg.cc/ZKFp8yGc/image017.png)
 >Un juego simple en el que los usuarios deben adivinar, con un boton cual es el boton indicado para que te lleve a otro pantalla en este caso a una pantalla que podras hacer pregutnas a una IA, en caso de que no sea el boton correcto muestran un mensaje de error y si el boton es el correcto abre una pantalla de chat conectada a un modelo de lenguaje (chatGPT).
 
-###ChatGpt
+### ChatGpt
+
 ![](https://i.postimg.cc/BQG2PCVb/image019.png)
 >Una pantalla que permite a los usuarios interactuar con un chatbot basado en la IA proporcionada por el API de chatGPT.
 
-###API Marvel
+### API Marvel
+
 ![](https://i.postimg.cc/FzXkc9G8/image021.png)
 >Una pantalla que muestra información sobre personajes del universo Marvel, con la capacidad de buscar personajes y agregarlos a favoritos.
 
-###Numeros Ramdom
+### Numeros Ramdom
+
 ![](https://i.postimg.cc/7ZH7mZDy/image023.png)
 >Una pantalla que muestra una lista de números generados al azar utilizando un RecyclerView, lo que permite desplazarse por la lista.
 
-###API Memes
+### API Memes
 ![](https://i.postimg.cc/LX1Znqkj/image025.png)
 >Una pantalla que muestra una colección de memes obtenidos a través de un API, brindando entretenimiento a los usuarios.
