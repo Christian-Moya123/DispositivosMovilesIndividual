@@ -1,6 +1,9 @@
 ##App Dispositivos Moviles
+
 ####Nombre: Christian Moya
+
 **Trabajo individual de dispositivos moviles el cual consiste de multiples actividades algunas de estas son:**
+
 ##Caracteristicas
 - Ventana de Login y Registro a traves de Firebase
 - Autentificacion a traves de la huella digital
